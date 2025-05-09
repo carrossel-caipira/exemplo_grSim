@@ -1,0 +1,10 @@
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/vision/CMakeFiles/uninstall.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/vision/CMakeFiles/vision_uninstall.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/vision/CMakeFiles/node_receiver.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/vision/CMakeFiles/test.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/vision/CMakeFiles/edit_cache.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/vision/CMakeFiles/rebuild_cache.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/vision/CMakeFiles/list_install_components.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/vision/CMakeFiles/install.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/vision/CMakeFiles/install/local.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/vision/CMakeFiles/install/strip.dir

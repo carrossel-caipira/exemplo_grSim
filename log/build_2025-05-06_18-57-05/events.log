@@ -1,0 +1,149 @@
+[0.000000] (-) TimerEvent: {}
+[0.000476] (-) JobUnselected: {'identifier': 'shared_interfaces'}
+[0.000626] (-) JobUnselected: {'identifier': 'shared_proto'}
+[0.000715] (-) JobUnselected: {'identifier': 'vision'}
+[0.000754] (grsim_sender) JobQueued: {'identifier': 'grsim_sender', 'dependencies': OrderedDict([('shared_proto', '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto')])}
+[0.000781] (grsim_sender) JobStarted: {'identifier': 'grsim_sender'}
+[0.008647] (grsim_sender) JobProgress: {'identifier': 'grsim_sender', 'progress': 'cmake'}
+[0.020102] (grsim_sender) JobProgress: {'identifier': 'grsim_sender', 'progress': 'build'}
+[0.021935] (grsim_sender) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender', '--', '-j8', '-l8'], 'cwd': '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HISTFILESIZE', '50000'), ('TMUX', '/tmp/tmux-1000/default,224666,0'), ('HISTTIMEFORMAT', '\x1b[0;34m[%F %T] \x1b[0m'), ('USER', 'viniciuscas'), ('LC_TIME', 'pt_BR.UTF-8'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '3'), ('LD_LIBRARY_PATH', '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/viniciuscas'), ('CONDA_SHLVL', '0'), ('OLDPWD', '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws'), ('TERM_PROGRAM_VERSION', '3.2a'), ('DESKTOP_SESSION', 'ubuntu-xorg'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('LC_MONETARY', 'pt_BR.UTF-8'), ('LC_CTYPE', 'pt_BR.UTF-8'), ('SYSTEMD_EXEC_PID', '3196'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('_CE_M', ''), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'viniciuscas'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'viniciuscas'), ('TERM', 'screen'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('ROS_LOCALHOST_ONLY', '0'), ('HISTCONTROL', 'ignoreboth'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/humble/bin:/home/viniciuscas/.local/bin:/home/viniciuscas/anaconda3/condabin:/home/viniciuscas/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/viniciuscas/.fzf/bin'), ('SESSION_MANAGER', 'local/viniciusCas:@/tmp/.ICE-unix/2899,unix/viniciusCas:/tmp/.ICE-unix/2899'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'pt_BR.UTF-8'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/01d35322_47cf_4eef_8bd3_c0dc92166381'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':0'), ('HISTSIZE', '10000'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('LC_TELEPHONE', 'pt_BR.UTF-8'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu-xorg'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.118'), ('TERM_PROGRAM', 'tmux'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/viniciuscas/anaconda3/bin/python'), ('SHELL', '/bin/bash'), ('LC_NAME', 'pt_BR.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu-xorg'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'pt_BR.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('LC_IDENTIFICATION', 'pt_BR.UTF-8'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu-xorg:/etc/xdg'), ('CONDA_EXE', '/home/viniciuscas/anaconda3/bin/conda'), ('XDG_DATA_DIRS', '/usr/share/ubuntu-xorg:/usr/share/gnome:/home/viniciuscas/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LC_NUMERIC', 'pt_BR.UTF-8'), ('LC_PAPER', 'pt_BR.UTF-8'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('TMUX_PANE', '%1'), ('CMAKE_PREFIX_PATH', '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:/opt/ros/humble')]), 'shell': False}
+[0.099856] (-) TimerEvent: {}
+[0.110900] (grsim_sender) StdoutLine: {'line': b'\x1b[35m\x1b[1mConsolidate compiler generated dependencies of target grsim_communication\x1b[0m\n'}
+[0.143285] (grsim_sender) StdoutLine: {'line': b'[ 25%] \x1b[32mBuilding CXX object CMakeFiles/grsim_communication.dir/src/vision_subscriber.cpp.o\x1b[0m\n'}
+[0.199975] (-) TimerEvent: {}
+[0.301148] (-) TimerEvent: {}
+[0.401502] (-) TimerEvent: {}
+[0.501773] (-) TimerEvent: {}
+[0.602042] (-) TimerEvent: {}
+[0.702298] (-) TimerEvent: {}
+[0.802573] (-) TimerEvent: {}
+[0.902859] (-) TimerEvent: {}
+[1.003147] (-) TimerEvent: {}
+[1.103452] (-) TimerEvent: {}
+[1.204020] (-) TimerEvent: {}
+[1.304314] (-) TimerEvent: {}
+[1.404614] (-) TimerEvent: {}
+[1.504933] (-) TimerEvent: {}
+[1.605246] (-) TimerEvent: {}
+[1.705563] (-) TimerEvent: {}
+[1.805833] (-) TimerEvent: {}
+[1.906103] (-) TimerEvent: {}
+[2.006413] (-) TimerEvent: {}
+[2.106652] (-) TimerEvent: {}
+[2.206938] (-) TimerEvent: {}
+[2.307221] (-) TimerEvent: {}
+[2.407525] (-) TimerEvent: {}
+[2.507857] (-) TimerEvent: {}
+[2.608120] (-) TimerEvent: {}
+[2.708379] (-) TimerEvent: {}
+[2.808618] (-) TimerEvent: {}
+[2.908899] (-) TimerEvent: {}
+[3.009175] (-) TimerEvent: {}
+[3.021972] (grsim_sender) StderrLine: {'line': b'\x1b[01m\x1b[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:\x1b[m\x1b[K In constructor \xe2\x80\x98\x1b[01m\x1b[KVisionSubscriber::VisionSubscriber()\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.022158] (grsim_sender) StderrLine: {'line': b'\x1b[01m\x1b[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:8:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C++ forbids converting a string constant to \xe2\x80\x98\x1b[01m\x1b[Kchar*\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K\x1b]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wwrite-strings\x07-Wwrite-strings\x1b]8;;\x07\x1b[m\x1b[K]\n'}
+[3.022273] (grsim_sender) StderrLine: {'line': b'    8 |     char* grsim_ip = \x1b[01;35m\x1b[K"224.5.23.2"\x1b[m\x1b[K;\n'}
+[3.022341] (grsim_sender) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[3.022412] (grsim_sender) StderrLine: {'line': b'\x1b[01m\x1b[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:10:28:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C++ forbids converting a string constant to \xe2\x80\x98\x1b[01m\x1b[Kchar*\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K\x1b]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wwrite-strings\x07-Wwrite-strings\x1b]8;;\x07\x1b[m\x1b[K]\n'}
+[3.022480] (grsim_sender) StderrLine: {'line': b'   10 |     char* interface_name = \x1b[01;35m\x1b[K"wlo1"\x1b[m\x1b[K;\n'}
+[3.022543] (grsim_sender) StderrLine: {'line': b'      |                            \x1b[01;35m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[3.031053] (grsim_sender) StderrLine: {'line': b'\x1b[01m\x1b[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:\x1b[m\x1b[K In member function \xe2\x80\x98\x1b[01m\x1b[Kstd::string VisionSubscriber::processPacket(SSL_WrapperPacket)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.031244] (grsim_sender) StderrLine: {'line': b'\x1b[01m\x1b[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:24:63:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kmsg\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K\x1b]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter\x07-Wunused-parameter\x1b]8;;\x07\x1b[m\x1b[K]\n'}
+[3.031331] (grsim_sender) StderrLine: {'line': b'   24 | std::string VisionSubscriber::processPacket(\x1b[01;35m\x1b[KSSL_WrapperPacket msg\x1b[m\x1b[K) {\n'}
+[3.031436] (grsim_sender) StderrLine: {'line': b'      |                                             \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~~~~^~~\x1b[m\x1b[K\n'}
+[3.109251] (-) TimerEvent: {}
+[3.209558] (-) TimerEvent: {}
+[3.309841] (-) TimerEvent: {}
+[3.410127] (-) TimerEvent: {}
+[3.510379] (-) TimerEvent: {}
+[3.610625] (-) TimerEvent: {}
+[3.710866] (-) TimerEvent: {}
+[3.811146] (-) TimerEvent: {}
+[3.911423] (-) TimerEvent: {}
+[4.011800] (-) TimerEvent: {}
+[4.112179] (-) TimerEvent: {}
+[4.212425] (-) TimerEvent: {}
+[4.312742] (-) TimerEvent: {}
+[4.413048] (-) TimerEvent: {}
+[4.513372] (-) TimerEvent: {}
+[4.613677] (-) TimerEvent: {}
+[4.721700] (-) TimerEvent: {}
+[4.821975] (-) TimerEvent: {}
+[4.922268] (-) TimerEvent: {}
+[5.022525] (-) TimerEvent: {}
+[5.122791] (-) TimerEvent: {}
+[5.223072] (-) TimerEvent: {}
+[5.323336] (-) TimerEvent: {}
+[5.423573] (-) TimerEvent: {}
+[5.523821] (-) TimerEvent: {}
+[5.624130] (-) TimerEvent: {}
+[5.724421] (-) TimerEvent: {}
+[5.824701] (-) TimerEvent: {}
+[5.925045] (-) TimerEvent: {}
+[6.025300] (-) TimerEvent: {}
+[6.125532] (-) TimerEvent: {}
+[6.226631] (-) TimerEvent: {}
+[6.326903] (-) TimerEvent: {}
+[6.427140] (-) TimerEvent: {}
+[6.527398] (-) TimerEvent: {}
+[6.627673] (-) TimerEvent: {}
+[6.727938] (-) TimerEvent: {}
+[6.828204] (-) TimerEvent: {}
+[6.928446] (-) TimerEvent: {}
+[7.028747] (-) TimerEvent: {}
+[7.129032] (-) TimerEvent: {}
+[7.229324] (-) TimerEvent: {}
+[7.329601] (-) TimerEvent: {}
+[7.429874] (-) TimerEvent: {}
+[7.530155] (-) TimerEvent: {}
+[7.630454] (-) TimerEvent: {}
+[7.730736] (-) TimerEvent: {}
+[7.831016] (-) TimerEvent: {}
+[7.931297] (-) TimerEvent: {}
+[8.031593] (-) TimerEvent: {}
+[8.131882] (-) TimerEvent: {}
+[8.232160] (-) TimerEvent: {}
+[8.332518] (-) TimerEvent: {}
+[8.432905] (-) TimerEvent: {}
+[8.533533] (-) TimerEvent: {}
+[8.633844] (-) TimerEvent: {}
+[8.734105] (-) TimerEvent: {}
+[8.834365] (-) TimerEvent: {}
+[8.934607] (-) TimerEvent: {}
+[8.976047] (grsim_sender) StdoutLine: {'line': b'[ 50%] \x1b[32m\x1b[1mLinking CXX executable grsim_communication\x1b[0m\n'}
+[9.034785] (-) TimerEvent: {}
+[9.135331] (-) TimerEvent: {}
+[9.235660] (-) TimerEvent: {}
+[9.336218] (-) TimerEvent: {}
+[9.436627] (-) TimerEvent: {}
+[9.537422] (-) TimerEvent: {}
+[9.637785] (-) TimerEvent: {}
+[9.738115] (-) TimerEvent: {}
+[9.838492] (-) TimerEvent: {}
+[9.938748] (-) TimerEvent: {}
+[10.039070] (-) TimerEvent: {}
+[10.075969] (grsim_sender) StdoutLine: {'line': b'[100%] Built target grsim_communication\n'}
+[10.085974] (grsim_sender) CommandEnded: {'returncode': 0}
+[10.086631] (grsim_sender) JobProgress: {'identifier': 'grsim_sender', 'progress': 'install'}
+[10.094848] (grsim_sender) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender'], 'cwd': '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HISTFILESIZE', '50000'), ('TMUX', '/tmp/tmux-1000/default,224666,0'), ('HISTTIMEFORMAT', '\x1b[0;34m[%F %T] \x1b[0m'), ('USER', 'viniciuscas'), ('LC_TIME', 'pt_BR.UTF-8'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '3'), ('LD_LIBRARY_PATH', '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/viniciuscas'), ('CONDA_SHLVL', '0'), ('OLDPWD', '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws'), ('TERM_PROGRAM_VERSION', '3.2a'), ('DESKTOP_SESSION', 'ubuntu-xorg'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('LC_MONETARY', 'pt_BR.UTF-8'), ('LC_CTYPE', 'pt_BR.UTF-8'), ('SYSTEMD_EXEC_PID', '3196'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('_CE_M', ''), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'viniciuscas'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'viniciuscas'), ('TERM', 'screen'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('ROS_LOCALHOST_ONLY', '0'), ('HISTCONTROL', 'ignoreboth'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/humble/bin:/home/viniciuscas/.local/bin:/home/viniciuscas/anaconda3/condabin:/home/viniciuscas/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/viniciuscas/.fzf/bin'), ('SESSION_MANAGER', 'local/viniciusCas:@/tmp/.ICE-unix/2899,unix/viniciusCas:/tmp/.ICE-unix/2899'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'pt_BR.UTF-8'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/01d35322_47cf_4eef_8bd3_c0dc92166381'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':0'), ('HISTSIZE', '10000'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('LC_TELEPHONE', 'pt_BR.UTF-8'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu-xorg'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.118'), ('TERM_PROGRAM', 'tmux'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/viniciuscas/anaconda3/bin/python'), ('SHELL', '/bin/bash'), ('LC_NAME', 'pt_BR.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu-xorg'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'pt_BR.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('LC_IDENTIFICATION', 'pt_BR.UTF-8'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu-xorg:/etc/xdg'), ('CONDA_EXE', '/home/viniciuscas/anaconda3/bin/conda'), ('XDG_DATA_DIRS', '/usr/share/ubuntu-xorg:/usr/share/gnome:/home/viniciuscas/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LC_NUMERIC', 'pt_BR.UTF-8'), ('LC_PAPER', 'pt_BR.UTF-8'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('TMUX_PANE', '%1'), ('CMAKE_PREFIX_PATH', '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:/opt/ros/humble')]), 'shell': False}
+[10.101988] (grsim_sender) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[10.135973] (grsim_sender) StdoutLine: {'line': b'-- Installing: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/lib/grsim_sender/grsim_communication\n'}
+[10.139269] (-) TimerEvent: {}
+[10.150904] (grsim_sender) StdoutLine: {'line': b'-- Set runtime path of "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/lib/grsim_sender/grsim_communication" to ""\n'}
+[10.151862] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/ament_index/resource_index/package_run_dependencies/grsim_sender\n'}
+[10.152746] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/ament_index/resource_index/parent_prefix_path/grsim_sender\n'}
+[10.153154] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/environment/ament_prefix_path.sh\n'}
+[10.153503] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/environment/ament_prefix_path.dsv\n'}
+[10.153809] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/environment/path.sh\n'}
+[10.154400] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/environment/path.dsv\n'}
+[10.154816] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/local_setup.bash\n'}
+[10.155087] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/local_setup.sh\n'}
+[10.155421] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/local_setup.zsh\n'}
+[10.155707] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/local_setup.dsv\n'}
+[10.156038] (grsim_sender) StdoutLine: {'line': b'-- Installing: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/package.dsv\n'}
+[10.156401] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/ament_index/resource_index/packages/grsim_sender\n'}
+[10.156927] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/cmake/grsim_senderConfig.cmake\n'}
+[10.157485] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/cmake/grsim_senderConfig-version.cmake\n'}
+[10.158021] (grsim_sender) StdoutLine: {'line': b'-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/package.xml\n'}
+[10.170610] (grsim_sender) CommandEnded: {'returncode': 0}
+[10.212514] (grsim_sender) JobEnded: {'identifier': 'grsim_sender', 'rc': 0}
+[10.215963] (-) EventReactorShutdown: {}

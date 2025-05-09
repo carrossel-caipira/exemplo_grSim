@@ -1,0 +1,16 @@
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/lib/vision/node_receiver
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/ament_index/resource_index/package_run_dependencies/vision
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/ament_index/resource_index/parent_prefix_path/vision
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/vision/environment/ament_prefix_path.sh
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/vision/environment/ament_prefix_path.dsv
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/vision/environment/path.sh
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/vision/environment/path.dsv
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/vision/local_setup.bash
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/vision/local_setup.sh
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/vision/local_setup.zsh
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/vision/local_setup.dsv
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/vision/package.dsv
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/ament_index/resource_index/packages/vision
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/vision/cmake/visionConfig.cmake
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/vision/cmake/visionConfig-version.cmake
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/vision/share/vision/package.xml

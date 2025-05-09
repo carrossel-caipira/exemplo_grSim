@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-d78d0c02fa7bbb20fbe7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "shared_proto",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "shared_proto_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shared_proto_msgs-92c304b0a574b4f303b1.json",
+					"name" : "shared_proto_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shared_proto_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shared_proto_uninstall-747e802ff3975faa67b5.json",
+					"name" : "shared_proto_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-521eb55b7119401bcf2f.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto",
+		"source" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/shared_proto"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

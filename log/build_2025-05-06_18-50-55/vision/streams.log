@@ -1,0 +1,5 @@
+[0.146s] Invoking command in '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/vision': AMENT_PREFIX_PATH=/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:/opt/ros/humble /usr/bin/cmake --build /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/vision -- -j8 -l8
+[0.371s] [35m[1mConsolidate compiler generated dependencies of target node_receiver[0m
+[0.409s] [ 25%] [32mBuilding CXX object CMakeFiles/node_receiver.dir/src/vision_publisher.cpp.o[0m
+[5.800s] [ 50%] [32m[1mLinking CXX executable node_receiver[0m
+[6.407s] [100%] Built target node_receiver

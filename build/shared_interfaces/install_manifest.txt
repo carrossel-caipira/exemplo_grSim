@@ -1,0 +1,15 @@
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/ament_index/resource_index/package_run_dependencies/shared_interfaces
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/ament_index/resource_index/parent_prefix_path/shared_interfaces
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/shared_interfaces/environment/ament_prefix_path.sh
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/shared_interfaces/environment/ament_prefix_path.dsv
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/shared_interfaces/environment/path.sh
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/shared_interfaces/environment/path.dsv
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/shared_interfaces/local_setup.bash
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/shared_interfaces/local_setup.sh
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/shared_interfaces/local_setup.zsh
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/shared_interfaces/local_setup.dsv
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/shared_interfaces/package.dsv
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/ament_index/resource_index/packages/shared_interfaces
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/shared_interfaces/cmake/shared_interfacesConfig.cmake
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/shared_interfaces/cmake/shared_interfacesConfig-version.cmake
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_interfaces/share/shared_interfaces/package.xml

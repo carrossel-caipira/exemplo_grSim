@@ -1,0 +1,10 @@
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/CMakeFiles/uninstall.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/CMakeFiles/shared_proto_uninstall.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/CMakeFiles/shared_proto_msgs.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/CMakeFiles/test.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/CMakeFiles/edit_cache.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/CMakeFiles/rebuild_cache.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/CMakeFiles/list_install_components.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/CMakeFiles/install.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/CMakeFiles/install/local.dir
+/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/CMakeFiles/install/strip.dir

@@ -1,0 +1,29 @@
+[0.101s] Invoking command in '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto -- -j8 -l8
+[0.350s] [100%] Built target shared_proto_msgs
+[0.362s] Invoked command in '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto -- -j8 -l8
+[0.399s] Invoking command in '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto
+[0.412s] -- Install configuration: ""
+[0.412s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/lib/libshared_proto_msgs.a
+[0.425s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/cmake/export_shared_proto_msgs.cmake
+[0.425s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/cmake/export_shared_proto_msgs-noconfig.cmake
+[0.425s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/ament_index/resource_index/package_run_dependencies/shared_proto
+[0.425s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/ament_index/resource_index/parent_prefix_path/shared_proto
+[0.426s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/environment/ament_prefix_path.sh
+[0.426s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/environment/ament_prefix_path.dsv
+[0.426s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/environment/path.sh
+[0.426s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/environment/path.dsv
+[0.426s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/local_setup.bash
+[0.426s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/local_setup.sh
+[0.426s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/local_setup.zsh
+[0.426s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/local_setup.dsv
+[0.426s] -- Installing: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/package.dsv
+[0.481s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/ament_index/resource_index/packages/shared_proto
+[0.481s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/cmake/export_shared_proto_msgsExport.cmake
+[0.481s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/cmake/export_shared_proto_msgsExport-noconfig.cmake
+[0.482s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.482s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/cmake/ament_cmake_export_targets-extras.cmake
+[0.482s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.482s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/cmake/shared_protoConfig.cmake
+[0.482s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/cmake/shared_protoConfig-version.cmake
+[0.482s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto/share/shared_proto/package.xml
+[0.484s] Invoked command in '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto

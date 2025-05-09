@@ -1,0 +1,37 @@
+[0.026s] Invoking command in '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender': AMENT_PREFIX_PATH=/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:/opt/ros/humble /usr/bin/cmake --build /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender -- -j8 -l8
+[0.110s] [35m[1mConsolidate compiler generated dependencies of target grsim_communication[0m
+[0.143s] [ 25%] [32mBuilding CXX object CMakeFiles/grsim_communication.dir/src/vision_subscriber.cpp.o[0m
+[3.021s] [01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:[m[K In constructor ‘[01m[KVisionSubscriber::VisionSubscriber()[m[K’:
+[3.021s] [01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:8:22:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wwrite-strings-Wwrite-strings]8;;[m[K]
+[3.022s]     8 |     char* grsim_ip = [01;35m[K"224.5.23.2"[m[K;
+[3.022s]       |                      [01;35m[K^~~~~~~~~~~~[m[K
+[3.022s] [01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:10:28:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wwrite-strings-Wwrite-strings]8;;[m[K]
+[3.022s]    10 |     char* interface_name = [01;35m[K"wlo1"[m[K;
+[3.022s]       |                            [01;35m[K^~~~~~[m[K
+[3.030s] [01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:[m[K In member function ‘[01m[Kstd::string VisionSubscriber::processPacket(SSL_WrapperPacket)[m[K’:
+[3.031s] [01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:24:63:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmsg[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[3.031s]    24 | std::string VisionSubscriber::processPacket([01;35m[KSSL_WrapperPacket msg[m[K) {
+[3.031s]       |                                             [01;35m[K~~~~~~~~~~~~~~~~~~^~~[m[K
+[8.976s] [ 50%] [32m[1mLinking CXX executable grsim_communication[0m
+[10.075s] [100%] Built target grsim_communication
+[10.085s] Invoked command in '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender' returned '0': AMENT_PREFIX_PATH=/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:/opt/ros/humble /usr/bin/cmake --build /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender -- -j8 -l8
+[10.095s] Invoking command in '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender': AMENT_PREFIX_PATH=/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:/opt/ros/humble /usr/bin/cmake --install /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender
+[10.101s] -- Install configuration: ""
+[10.136s] -- Installing: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/lib/grsim_sender/grsim_communication
+[10.151s] -- Set runtime path of "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/lib/grsim_sender/grsim_communication" to ""
+[10.152s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/ament_index/resource_index/package_run_dependencies/grsim_sender
+[10.152s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/ament_index/resource_index/parent_prefix_path/grsim_sender
+[10.153s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/environment/ament_prefix_path.sh
+[10.153s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/environment/ament_prefix_path.dsv
+[10.153s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/environment/path.sh
+[10.154s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/environment/path.dsv
+[10.154s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/local_setup.bash
+[10.155s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/local_setup.sh
+[10.155s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/local_setup.zsh
+[10.155s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/local_setup.dsv
+[10.155s] -- Installing: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/package.dsv
+[10.156s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/ament_index/resource_index/packages/grsim_sender
+[10.157s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/cmake/grsim_senderConfig.cmake
+[10.157s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/cmake/grsim_senderConfig-version.cmake
+[10.158s] -- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/package.xml
+[10.170s] Invoked command in '/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender' returned '0': AMENT_PREFIX_PATH=/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto:/opt/ros/humble /usr/bin/cmake --install /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/grsim_sender

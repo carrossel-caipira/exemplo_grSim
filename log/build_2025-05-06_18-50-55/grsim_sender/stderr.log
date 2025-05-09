@@ -1,0 +1,29 @@
+[01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:[m[K In constructor ‘[01m[KVisionSubscriber::VisionSubscriber()[m[K’:
+[01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:8:22:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wwrite-strings-Wwrite-strings]8;;[m[K]
+    8 |     char* grsim_ip = [01;35m[K"224.5.23.2"[m[K;
+      |                      [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:10:28:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wwrite-strings-Wwrite-strings]8;;[m[K]
+   10 |     char* interface_name = [01;35m[K"wlo1"[m[K;
+      |                            [01;35m[K^~~~~~[m[K
+[01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:[m[K In member function ‘[01m[Kstd::string VisionSubscriber::processPacket(SSL_WrapperPacket)[m[K’:
+[01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:34:14:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass grSim_Commands[m[K’ has no member named ‘[01m[Kset_wheelsspeed[m[K’
+   34 |     command->[01;31m[Kset_wheelsspeed[m[K(false);
+      |              [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:35:14:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass grSim_Commands[m[K’ has no member named ‘[01m[Kset_wheel1[m[K’
+   35 |     command->[01;31m[Kset_wheel1[m[K(0);
+      |              [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:36:14:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass grSim_Commands[m[K’ has no member named ‘[01m[Kset_wheel2[m[K’
+   36 |     command->[01;31m[Kset_wheel2[m[K(0);
+      |              [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:37:14:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass grSim_Commands[m[K’ has no member named ‘[01m[Kset_wheel3[m[K’
+   37 |     command->[01;31m[Kset_wheel3[m[K(0);
+      |              [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:38:14:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass grSim_Commands[m[K’ has no member named ‘[01m[Kset_wheel4[m[K’
+   38 |     command->[01;31m[Kset_wheel4[m[K(0);
+      |              [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/src/grsim_sender/src/vision_subscriber.cpp:24:63:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmsg[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   24 | std::string VisionSubscriber::processPacket([01;35m[KSSL_WrapperPacket msg[m[K) {
+      |                                             [01;35m[K~~~~~~~~~~~~~~~~~~^~~[m[K
+gmake[2]: *** [CMakeFiles/grsim_communication.dir/build.make:104: CMakeFiles/grsim_communication.dir/src/vision_subscriber.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/grsim_communication.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

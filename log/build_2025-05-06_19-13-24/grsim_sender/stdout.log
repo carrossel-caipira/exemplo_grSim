@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target grsim_communication[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/grsim_communication.dir/src/vision_subscriber.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable grsim_communication[0m
+[100%] Built target grsim_communication
+-- Install configuration: ""
+-- Installing: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/lib/grsim_sender/grsim_communication
+-- Set runtime path of "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/lib/grsim_sender/grsim_communication" to ""
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/ament_index/resource_index/package_run_dependencies/grsim_sender
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/ament_index/resource_index/parent_prefix_path/grsim_sender
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/environment/ament_prefix_path.sh
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/environment/path.sh
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/environment/path.dsv
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/local_setup.bash
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/local_setup.sh
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/local_setup.zsh
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/local_setup.dsv
+-- Installing: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/package.dsv
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/ament_index/resource_index/packages/grsim_sender
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/cmake/grsim_senderConfig.cmake
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/cmake/grsim_senderConfig-version.cmake
+-- Up-to-date: /home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/grsim_sender/share/grsim_sender/package.xml

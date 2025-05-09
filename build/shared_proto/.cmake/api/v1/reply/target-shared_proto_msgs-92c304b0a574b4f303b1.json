@@ -1,0 +1,350 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "libshared_proto_msgs.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"install",
+			"add_compile_options",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wpedantic"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"id" : "shared_proto_msgs::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/install/shared_proto"
+		}
+	},
+	"name" : "shared_proto_msgs",
+	"nameOnDisk" : "libshared_proto_msgs.a",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/grSim_Commands.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/grSim_Packet.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/grSim_Replacement.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/grSim_Robotstatus.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_gc_common.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_simulation_config.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_simulation_control.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_simulation_error.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_simulation_robot_control.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_simulation_robot_feedback.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_simulation_synchronous.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_vision_detection.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_vision_geometry.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_vision_wrapper.pb.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/grSim_Commands.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/grSim_Packet.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/grSim_Replacement.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/grSim_Robotstatus.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_gc_common.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_simulation_config.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_simulation_control.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_simulation_error.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_simulation_robot_control.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_simulation_robot_feedback.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_simulation_synchronous.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_vision_detection.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_vision_geometry.pb.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/viniciuscas/Desktop/dev/carrossel-caipira/grSim_ws/exemploAula/build/shared_proto/ssl_vision_wrapper.pb.h.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}
